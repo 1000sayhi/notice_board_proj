@@ -1,0 +1,15 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    background-color: #ffe4e1;
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: #ffe4e1;
+  }
+.app{
+    flex: 1;
+}
